@@ -52,11 +52,6 @@ Start the app with:
 python main.py
 ```
 
-If you are not using an activated virtual environment, run it with the interpreter directly:
-
-```powershell
-e:\1337\python\focus_engine\.venv\Scripts\python.exe main.py
-```
 
 ## How To Use
 
